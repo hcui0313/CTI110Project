@@ -8,11 +8,19 @@ Welcome to CTI110!!!!!
 - [Youtube](https://www.youtube.com) - Youtube helps me to see tutorial in different topic in addition to watch videos and listen to music.
 
 
-# Mermaid Flowchart
-```mermaid
-flowchart TD
-A[Finish Highschool] --> |Graduate| B(Search for College)
-B --> C{Make selection}
-C -->|One| D([Charlotte University])
-C -->|Two| R([Wake Tech])
-C -->|Three| F([Greensboro University])
+# -Diagram.MD
+Flowchart
+
+A[start]--> B[is it working]
+
+A(Game Begins)
+
+A--> B[Do we have possession of the ball]
+B--> C[Attack]
+B--> D[Defend]
+
+C--> E[Shoot or Pass]
+E--> F[Shoot]
+E--> G[Pass]
+
+H--> D[Block]
