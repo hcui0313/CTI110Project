@@ -9,7 +9,7 @@ Welcome to CTI110!!!!!
 
 
 # Mermaid Flowchart
-
+```mermaid
 flowchart TD
 A[Finish Highschool] --> |Graduate| B(Search for College)
 B --> C{Make selection}
