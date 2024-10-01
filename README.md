@@ -4,6 +4,6 @@ Welcome to CTI110!!!!!
 # About Me
 ## My Interests
 ## Websites I Recommend
-- [Google](https://www.google.com) - I find Google indispensable for researching all kinds of information.
-- [TED Talks](https://www.ted.com) - TED Talks inspire me with ideas and perspectives from various fields around the world.
+- [Google](https://www.google.com) - I find Google indispensable for researching all kinds of information. 
+- [Youtube](https://www.youtube.com) - Youtube helps me to see tutorial in different topic in addition to watch videos and listen to music.
 
