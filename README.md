@@ -9,7 +9,8 @@ Welcome to CTI110!!!!!
 
 
 # -Diagram.MD
-Flowchart
+'''mermaid
+Flowchart FC
 
 A[start]--> B[is it working]
 
